@@ -1,0 +1,12 @@
+.button-booking{
+    background-color: #660099;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+.booking-button-wrapper{
+    position: relative;
+    
+}

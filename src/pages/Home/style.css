@@ -1,0 +1,17 @@
+.button-wrapper{
+    margin: 0;
+    padding: 0;
+}
+.text-wrapper{
+    margin: 0;
+    padding: 0;
+}
+.selector-wrapper{
+    margin: 0;
+    padding-right: 50px;
+}
+body {
+    overflow-x: hidden;
+  }
+
+  

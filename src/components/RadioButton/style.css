@@ -1,0 +1,28 @@
+.radio-label {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .radio-input {
+    display: none; /* Gizle */
+  }
+  
+  .radio-unchecked {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid purple;
+    display: inline-block;
+    margin-right: 8px;
+  }
+  
+  .radio-checked {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: purple;
+    display: inline-block;
+    margin-right: 8px;
+  }
+  
